@@ -1,12 +1,4 @@
-# COP 3530 - Data Structures and Algorithms I 
-# Project 1 
 
-## Objective: 
-This project is meant to help you review concepts of programming in C++ while also getting used to the environment for this course.
-In this project, you are asked to create a simplified version of a course lookup engine, similar to UWF's Banner.
-You will need to be able to perform basic file input, create classes, and manipulate basic data structures in C++.
-You will also need to modify a Makefile to compile your program.
-Information about creating Makefiles is in your Zybook.
 
 ## Problem Description: 
 Your program will be given files in the following format (See [course.txt](course.txt) for an example):
