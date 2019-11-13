@@ -9,7 +9,7 @@ course_prefix course_number instructor max_seats seats_available days time
 Each line of the file composes a hypothetical course that is being offered.
 The data elements are as follows:
 1. course_prefix (string)
-	1. This is the three letter code that shows what type of class it is. CS classes at UWF start with COP, for example.
+	1. This is the three letter code that shows what type of class it is. CS classes start with COP, for example.
 1. course_number (integer)
 	1. The number for the course. DSA I has a course number of 3530.
 A file can contain any number of questions and answers.
